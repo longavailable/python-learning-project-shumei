@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Nov 20 2025
+Created on Wed Nov 20 2024
 
 @author: 刘小龙
 
@@ -11,7 +11,7 @@ import random
 import csv
 
 # 输入文件的路径
-file = 'data/004-random-znjz2321.csv'
+file = 'student.csv'
 
 # 读取文件
 with open(file, 'r', encoding='utf-8') as f:
@@ -23,7 +23,7 @@ print(namelist)
 print(len(namelist))
 print(namelist[0])
 '''
-fout = 'data/004-20241120-出勤.csv'
+fout = '出勤.csv'
 
 #breakpoint()
 
