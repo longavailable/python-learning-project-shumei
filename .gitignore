@@ -6,3 +6,4 @@
 .spyproject/config/workspace.ini
 /.spyproject
 /.idea
+*.pyc
